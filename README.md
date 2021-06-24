@@ -25,5 +25,5 @@
 <p>2. Configure the database access properties.</p>
 <p>3. Build and run project</p>
 
-<h3>Link to youtube presentation:</h3>
+<h3>Link to project video presentation:</h3>
 https://www.youtube.com/watch?v=IB6CO1BLmC8
